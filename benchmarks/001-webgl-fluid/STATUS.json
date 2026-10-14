@@ -1,0 +1,10 @@
+{
+  "status": "COMPLETE",
+  "models": 3,
+  "runs_per_model": 1,
+  "scenarios": 2,
+  "sampled_frames_per_model": 10,
+  "human_repaired_outputs": false,
+  "ui_validation": "PASS",
+  "video": "web/comparison.mp4"
+}

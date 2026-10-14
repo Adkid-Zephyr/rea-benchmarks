@@ -1,0 +1,13 @@
+{
+  "name": "rea-benchmarks",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Independent visual reconstruction benchmarks using REA",
+  "devDependencies": {
+    "playwright": "1.58.2"
+  },
+  "scripts": {
+    "verify": "python3 scripts/verify.py",
+    "smoke": "node benchmarks/001-webgl-fluid/scripts/check.cjs benchmarks/001-webgl-fluid/runs/k3/index.html"
+  }
+}

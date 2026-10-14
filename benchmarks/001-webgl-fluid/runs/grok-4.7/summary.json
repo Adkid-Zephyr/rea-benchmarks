@@ -1,0 +1,193 @@
+{
+  "requested_model": "grok-4.7",
+  "status": "submitted",
+  "turns": 15,
+  "usage": [
+    {
+      "completion_tokens": 115,
+      "total_tokens": 2330,
+      "prompt_tokens": 2215,
+      "prompt_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 50
+      }
+    },
+    {
+      "completion_tokens": 56,
+      "total_tokens": 4894,
+      "prompt_tokens": 4838,
+      "prompt_tokens_details": {
+        "cached_tokens": 2176
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 23
+      }
+    },
+    {
+      "completion_tokens": 57,
+      "total_tokens": 7658,
+      "prompt_tokens": 7601,
+      "prompt_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "completion_tokens": 57,
+      "total_tokens": 14576,
+      "prompt_tokens": 14519,
+      "prompt_tokens_details": {
+        "cached_tokens": 7552
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 22
+      }
+    },
+    {
+      "completion_tokens": 19,
+      "total_tokens": 19420,
+      "prompt_tokens": 19401,
+      "prompt_tokens_details": {
+        "cached_tokens": 14464
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "completion_tokens": 20,
+      "total_tokens": 22161,
+      "prompt_tokens": 22141,
+      "prompt_tokens_details": {
+        "cached_tokens": 19328
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "completion_tokens": 7190,
+      "total_tokens": 31292,
+      "prompt_tokens": 24102,
+      "prompt_tokens_details": {
+        "cached_tokens": 22016
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "completion_tokens": 8,
+      "total_tokens": 31365,
+      "prompt_tokens": 31357,
+      "prompt_tokens_details": {
+        "cached_tokens": 24064
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "completion_tokens": 7093,
+      "total_tokens": 39176,
+      "prompt_tokens": 32083,
+      "prompt_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 59
+      }
+    },
+    {
+      "completion_tokens": 8,
+      "total_tokens": 39184,
+      "prompt_tokens": 39176,
+      "prompt_tokens_details": {
+        "cached_tokens": 32000
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "completion_tokens": 6967,
+      "total_tokens": 46268,
+      "prompt_tokens": 39301,
+      "prompt_tokens_details": {
+        "cached_tokens": 39168
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "completion_tokens": 8,
+      "total_tokens": 46338,
+      "prompt_tokens": 46330,
+      "prompt_tokens_details": {
+        "cached_tokens": 39296
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "completion_tokens": 7718,
+      "total_tokens": 54114,
+      "prompt_tokens": 46396,
+      "prompt_tokens_details": {
+        "cached_tokens": 46208
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 826
+      }
+    },
+    {
+      "completion_tokens": 8,
+      "total_tokens": 53353,
+      "prompt_tokens": 53345,
+      "prompt_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "completion_tokens": 301,
+      "total_tokens": 53712,
+      "prompt_tokens": 53411,
+      "prompt_tokens_details": {
+        "cached_tokens": 53248
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  ],
+  "returned_models": [
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build",
+    "grok-4.7-build"
+  ],
+  "rea_calls": 2,
+  "seconds": 279.02,
+  "completion_tokens": 29625,
+  "artifact_exists": true
+}

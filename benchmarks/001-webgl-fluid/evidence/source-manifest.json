@@ -1,0 +1,20 @@
+[
+  {
+    "file": "script.js",
+    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/script.js",
+    "sha256": "1acf7f41b1fe3a1b03115941ae6c741009392a236f4082fa06a91594589c7b54",
+    "bytes": 52627
+  },
+  {
+    "file": "dat.gui.min.js",
+    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/dat.gui.min.js",
+    "sha256": "27976ca8ac2e125de97163455131890e8686ed2afc2007cd5524080b7d53ef7b",
+    "bytes": 50149
+  },
+  {
+    "file": "LICENSE",
+    "url": "https://raw.githubusercontent.com/PavelDoGreat/WebGL-Fluid-Simulation/master/LICENSE",
+    "sha256": "1be448ae1212de2bee77b4cf851ab0acea0a7f7f32d21cd73095dd94dc173f66",
+    "bytes": 1072
+  }
+]
